@@ -72,5 +72,3 @@ class CureCluster:
         self.index = np.append(self.index, clust.index)
         self.repPoints = None
         self.generateRepPoints(numRepPoints, alpha)
-
-# Describe the process of the CURE algorithm
